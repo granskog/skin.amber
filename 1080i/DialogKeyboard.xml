@@ -9,21 +9,21 @@
       <control type="image">
         <posx>320</posx>
         <posy>360</posy>
-        <width>1292</width>
+        <width>1372</width>
         <height>606</height>
         <texture border="45">dialogs/TinyDialog.png</texture>
       </control>
       <control type="image">
         <posx>390</posx>
         <posy>471</posy>
-        <width>1154</width>
+        <width>1234</width>
         <height>60</height>
         <texture border="8">img/WhiteRoundedT.png</texture>
       </control>
       <control type="label" id="311" description="Heading">
         <posx>400</posx>
         <posy>405</posy>
-        <width>1120</width>
+        <width>1200</width>
         <textcolor>Highlight</textcolor>
         <align>center</align>
       </control>

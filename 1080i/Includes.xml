@@ -215,7 +215,7 @@
         <font>Details</font>
         <textcolor>White</textcolor>
         <shadowcolor>ShadowDark</shadowcolor>
-        <label>$VAR[Time]</label>
+        <label>$VAR[Time][COLOR=Highlight]  •  [/COLOR]CPU: $INFO[System.CPUTemperature]</label>
       </control>
     </control>
   </include>
