@@ -23,7 +23,7 @@
       <control type="label" id="311" description="Heading">
         <posx>400</posx>
         <posy>405</posy>
-        <width>1120</width>
+        <width>1200</width>
         <textcolor>Highlight</textcolor>
         <align>center</align>
       </control>
